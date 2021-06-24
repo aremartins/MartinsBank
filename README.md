@@ -5,6 +5,14 @@
   <h2><strong>Martins Bank</strong> </h2>
 
   <h3>Projeto de criação de contas para um banco fictício para praticar os conceitos aprendidos durante curso de Orientação a Objetos da Alura</h3>
+  
+  <h4>Classes do projeto</h4>
+  <li><a href="https://github.com/aremartins/MartinsBank/blob/main/src/Cliente.java">Cliente</a></li>
+  <li><a href="https://github.com/aremartins/MartinsBank/blob/main/src/Conta.java">Conta</a></li>
+  <li><a href="https://github.com/aremartins/MartinsBank/blob/main/src/TestaConta.java">TestaConta</a></li>
+  <li><a href="https://github.com/aremartins/MartinsBank/blob/main/src/TestaGetESet.java">TestaGettersESets</a></li>
+  
+  </br>
 
   <ul><strong>O que foi visto no curso:</strong>
     <li>Definir classes e quais são os membros delas como atributos, métodos e construtores. As classes servem como molde usada para criar objetos e os métodos encapsulam a implementação;</li>
